@@ -1,0 +1,71 @@
+{
+  "editor.minimap.enabled": false,
+
+  "editor.renderControlCharacters": true,
+
+  "editor.fontFamily": "Fira Code, monospace",
+
+  "editor.fontLigatures": true,
+
+  "explorer.openEditors.visible": 0,
+
+  "python.formatting.provider": "autopep8",
+
+  "editor.detectIndentation": false,
+
+  "workbench.colorTheme": "Monokai Pro",
+
+  "workbench.sideBar.location": "right",
+
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[css]": {
+    "editor.defaultFormatter": "michelemelluso.code-beautifier"
+  },
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  "editor.formatOnType": true,
+
+  "editor.wordWrapColumn": 120,
+
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "auto-rename-tag.activationOnLanguage": [
+    "html",
+    "xml",
+    "javascriptreact",
+    "javascript"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "explorer.compactFolders": false,
+  "window.closeWhenEmpty": true,
+  "editor.minimap.maxColumn": 80,
+  "typescript.suggest.paths": false,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "editor.renderWhitespace": "all",
+  "diffEditor.wordWrap": "on",
+  "terminal.integrated.allowMnemonics": true,
+  "terminal.integrated.altClickMovesCursor": false,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.fontFamily": "'Fira Mono for Powerline', 'Fira Mono for Powerline'",
+  "editor.glyphMargin": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.startupEditor": "none",
+  "window.zoomLevel": 1
+}
