@@ -105,12 +105,15 @@ source $ZSH/oh-my-zsh.sh
 alias "composer"="php /usr/local/bin/composer "
 alias "ls"="colorls -a"
 alias "gcr"="git clone --recurse"
+alias "updateconf" = updateconf.sh
 
 # export PATH="$PATH:$HOME/.composer/vendor/bin"
 
 export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 export PATH=~/.npm-global/bin:$PATH
 export PATH=~/.composer/vendor/bin:$PATH
+export PATH=~/.composer/vendor/bin:$PATH
+export PATH="/Users/rubennijhuis/💻 Code/Scripts:$PATH"
 # export PATH=~/.composer/vendor/bin
 
 
