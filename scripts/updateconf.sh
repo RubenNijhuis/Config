@@ -8,6 +8,7 @@ CONFSCRIPT=~/Code/Scripts/updateconf.sh
 
 # Config dir location
 CONFIGFOLDER=~/Code/Config
+
 # Copy these files over
 cp $ZSHRC $CONFIGFOLDER
 cp $VSC $CONFIGFOLDER
