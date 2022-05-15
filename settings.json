@@ -13,7 +13,7 @@
 
   "editor.detectIndentation": false,
 
-  "workbench.colorTheme": "Monokai Pro",
+  "workbench.colorTheme": "Horizon",
 
   "workbench.sideBar.location": "right",
 
@@ -61,11 +61,11 @@
   "editor.renderWhitespace": "all",
   "diffEditor.wordWrap": "on",
   "terminal.integrated.allowMnemonics": true,
-  "terminal.integrated.altClickMovesCursor": false,
-  "terminal.integrated.lineHeight": 1.2,
-  "terminal.integrated.fontFamily": "'Fira Mono for Powerline', 'Fira Mono for Powerline'",
+"terminal.integrated.altClickMovesCursor": false,
+  "terminal.integrated.fontFamily": "'Fira Mono for Powerline', 'Hack Nerd Font'",
   "editor.glyphMargin": false,
   "diffEditor.ignoreTrimWhitespace": false,
-  "workbench.startupEditor": "none",
-  "window.zoomLevel": 1
+"workbench.startupEditor": "none",
+"debug.terminal.clearBeforeReusing": true,
+"window.zoomLevel": 1
 }

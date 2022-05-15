@@ -1,0 +1,14 @@
+[user]
+	name = Ruben Nijhuis
+	email = contact@rubennijhuis.com
+	signingkey = D4DF2958F0A670AE
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[commit]
+	gpgsign = true
+[gpg]
+	program = gpg2
+[color]
+	ui = auto
